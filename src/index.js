@@ -4,6 +4,6 @@ console.log("Ran from index js");
 getclasses();
 
 const obj = {a:'alpha', b:'bravo' }
-const newobj = { ...obj, c:'charlie'}
+const newobj = { ...obj, c:'charliE'}
 console.log(newobj);
 
