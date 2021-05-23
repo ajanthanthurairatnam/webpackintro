@@ -126,7 +126,7 @@ console.log("Ran from index js");
 (0,_getclasses__WEBPACK_IMPORTED_MODULE_0__.getclasses)();
 var obj = {
   a: 'alpha',
-  b: 'bravo'
+  b: 'bravo1'
 };
 
 var newobj = _objectSpread(_objectSpread({}, obj), {}, {
