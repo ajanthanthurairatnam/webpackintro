@@ -1,5 +1,4 @@
-import {wizzard} from './wizzard';
-import {babarian} from './babarian';
+
+import {getclasses} from './getclasses';
 console.log("Ran from index js");
-console.log(wizzard);
-console.log(babarian);
+getclasses();
